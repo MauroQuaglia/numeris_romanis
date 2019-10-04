@@ -1,3 +1,8 @@
+[![Build Status](https://travis-ci.org/MauroQuaglia/numeris_romanis.svg?branch=master)](https://travis-ci.org/MauroQuaglia/numeris_romanis)
+[![codecov](https://codecov.io/gh/MauroQuaglia/numeris_romanis/branch/master/graph/badge.svg)](https://codecov.io/gh/MauroQuaglia/numeris_romanis)
+
+
+
 # numeris_romanis
 Converts integer numbers into roman numbers and vice versa.
 
