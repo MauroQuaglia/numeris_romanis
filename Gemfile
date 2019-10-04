@@ -1,4 +1,7 @@
-source 'https://rubygems.org'
+source('https://rubygems.org')
 
-gem 'bundler', '1.11.2'
-gem 'rspec'
+group(:test) do
+  gem('codecov', :require => false)
+  gem('rake')
+  gem('rspec')
+end

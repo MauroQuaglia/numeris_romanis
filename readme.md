@@ -6,13 +6,15 @@ When NumerisRomanis is instantiate, integer numbers from 1 to 3999 are converted
 After that, when you want to convert roman number into decimal number or decimal number into roman number the instance methods respond with the precalculated value.
 When number to convert is out of ranges [1, 3999] or [I, MMMCMXCIX] the method responds with nil. Similary if argument is invalid.
 
-# Install
+# full reference
+Visit the [wiki](https://github.com/MauroQuaglia/numeris_romanis/wiki) for the full documentation.
+
+## getting started
 Edit your Gemfile and add:
 ```ruby
 gem 'numeris_romanis'
 ```
-# License
-The gem numeris_romanis is released under the MIT License.
+Now you can update your gemset with bundle.
 
-# Author
+## author
 Mauro Quaglia

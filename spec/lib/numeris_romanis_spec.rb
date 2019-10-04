@@ -1,6 +1,6 @@
 require 'numeris_romanis'
 
-RSpec.describe NumerisRomanis do
+describe NumerisRomanis do
 
   it 'should convert roman numbers correctly' do
     numbers = described_class.new
