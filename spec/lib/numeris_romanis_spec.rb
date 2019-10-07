@@ -1,3 +1,4 @@
+require_relative '../spec_helper'
 require 'numeris_romanis'
 
 describe NumerisRomanis do
