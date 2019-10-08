@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/MauroQuaglia/numeris_romanis.svg?branch=master)](https://travis-ci.org/MauroQuaglia/numeris_romanis)
 [![codecov](https://codecov.io/gh/MauroQuaglia/numeris_romanis/branch/master/graph/badge.svg)](https://codecov.io/gh/MauroQuaglia/numeris_romanis)
-
+[![Known Vulnerabilities](https://snyk.io//test/github/MauroQuaglia/numeris_romanis/badge.svg?targetFile=Gemfile.lock)](https://snyk.io//test/github/MauroQuaglia/numeris_romanis?targetFile=Gemfile.lock)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 # numeris_romanis
