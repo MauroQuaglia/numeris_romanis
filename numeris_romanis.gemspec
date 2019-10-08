@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version               = '0.0.2'
   s.email                 = 'mauroquaglia@libero.it'
   s.homepage              = 'https://github.com/MauroQuaglia/numeris_romanis'
-  s.date                  = '14 February 2016'
+  s.date                  = '2016-02-14'
   s.description           = "Converts decimal into roman and vice versa. The ranges permitted are [1, 3999] and [I, MMMCMXCIX]."
   s.license               = 'MIT'
 end
