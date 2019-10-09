@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.name                  = 'numeris_romanis'
   s.platform              = Gem::Platform::RUBY
   s.summary               = 'Converts decimal into roman and vice versa'
-  s.version               = '0.0.2'
+  s.version               = '0.0.3'
   s.email                 = 'mauroquaglia@libero.it'
   s.homepage              = 'https://github.com/MauroQuaglia/numeris_romanis'
   s.date                  = '2016-02-14'
